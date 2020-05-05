@@ -1,4 +1,5 @@
 # Basic character movement implementation
+#### This example was taken from [HeartBeast's Tutorial](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
 
 ```gdscript
 extends KinematicBody2D
