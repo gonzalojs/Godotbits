@@ -1,0 +1,22 @@
+{
+  "name": "godotbits",
+  "version": "1.0.0",
+  "description": "godot implementations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalojs/Godotbits.git"
+  },
+  "keywords": [
+    "godot"
+  ],
+  "author": "Gonzalo Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gonzalojs/Godotbits/issues"
+  },
+  "homepage": "https://github.com/gonzalojs/Godotbits#readme"
+}
