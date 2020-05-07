@@ -1,5 +1,5 @@
 # Basic Move sprite towards a position
-#### This example was taken from [HeartBeast's Tutorial](https://www.youtube.com/watch?v=os8mF3kbVCE)
+#### This example was taken from [Parker Anderson's Tutorial](https://www.youtube.com/watch?v=os8mF3kbVCE)
 
 ###### In this case, it moves towards the mouse position
 
