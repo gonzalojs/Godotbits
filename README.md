@@ -9,3 +9,4 @@
   * [Move sprite towards a position](https://github.com/gonzalojs/Godotbits/blob/master/Examples/movement/towardspoint.md)
 
 * #### Shaders
+  * [Invert All Colors](https://github.com/gonzalojs/Godotbits/blob/master/Examples/shaders/InvertAllColors.md)
